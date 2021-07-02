@@ -1,3 +1,7 @@
+## Note to Reviewer
+
+Unzipped "household_power_consumption.txt" file must be in the working directory to read the data.
+
 ## Introduction
 
 This assignment uses data from
